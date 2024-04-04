@@ -1,6 +1,6 @@
 # OASIS INFOBYTE - Web Development and Designing
 
-This repository contains a simple calculator web application developed as part of Level 2 Task 1 for OIBSIP.
+This repository contains a simple calculator web application developed as part of Level 2 Task 1 my OIBSIP internship program.
 
 ## Description
 
