@@ -29,9 +29,9 @@ The calculator is a web-based application that allows users to perform basic ari
    - Press the Backspace key to clear the last input.
 4. The result will be displayed in the input field at the top.
 
-## Screenshots
+## Screenshot
 
-![Calculator Screenshot](/path/to/screenshot.png)
+![Calculator Screenshot](cal.png)
 
 ## Credits
 
